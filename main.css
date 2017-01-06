@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+* {
+  box-sizing: border-box; }
+
+body {
+  background-image: url("https://andrewplacephotography.files.wordpress.com/2012/09/b0008795.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646; }
+  body .heading {
+    font-family: "Roboto", sans-serif;
+    color: #373b4e; }
+  body .showStuff {
+    font-family: "Roboto", sans-serif;
+    font-size: 44px;
+    color: #fff4d6;
+    margin-left: 10px; }
+  body .showMore {
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    color: #fff4d6;
+    margin-left: 10px; }
+  body h1, body h4 {
+    margin-left: 10px;
+    margin-top: 5px; }
+  body h1 {
+    margin-bottom: 5px; }
+
+/*# sourceMappingURL=main.css.map */
